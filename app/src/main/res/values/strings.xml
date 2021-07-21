@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Instacart Challenge</string>
+    <string name="count_template" translatable="false">(%d)</string>
 </resources>

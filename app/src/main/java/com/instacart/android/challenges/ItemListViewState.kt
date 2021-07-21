@@ -6,4 +6,7 @@ data class ItemListViewState(
     val items: List<ItemRow>
 )
 
-data class ItemRow(val name: String)
+data class ItemRow(
+    val name: String,
+    val count: Int
+    )
